@@ -14,7 +14,7 @@
                                            
                                            
                                                     DIEGO INSAURRALDE
-                                           
+                        Brazil    @dijub    @diego-insaurralde  󰇮  diego_insaurralde@live.com                                           
                   
                                  BACKEND             
                                    󰡨 Docker                         Intermediate        
@@ -67,7 +67,6 @@
                                     English                        Advanced  
 
     
-                        Brazil    @dijub    @diego-insaurralde  󰇮  diego_insaurralde@live.com
 
                
 
