@@ -67,7 +67,7 @@
                                     English                        Advanced  
 
     
-            Brazil    +55 43 996773410    @dijub    @diego-insaurralde  󰇮  diego_insaurralde@live.com
+                        Brazil    @dijub    @diego-insaurralde  󰇮  diego_insaurralde@live.com
 
                
 
