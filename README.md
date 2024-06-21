@@ -1,71 +1,70 @@
-## Hi there 👋
-    
-          
-                                   ██████╗ ██╗     ██╗██╗   ██╗██████╗ 
-                                   ██╔══██╗██║     ██║██║   ██║██╔══██╗
-                                   ██║  ██║██║     ██║██║   ██║██████╔╝
-                                   ██║  ██║██║██   ██║██║   ██║██╔══██╗
-                                   ██████╔╝██║╚█████╔╝╚██████╔╝██████╔╝
-                                   ╚═════╝ ╚═╝ ╚════╝  ╚═════╝ ╚═════╝ 
-                                   
-                                            ▄███████████▄.▐█▄▄█▌
-                                            █████████████▌▀▀██▀ 
-                                            ████▄█████████▄▄█▌  
-                                             ▄▄▄▄▄██████████▀    
-                                   
-                                   
-                                            DIEGO INSAURRALDE
-                                   
-          
-                         BACKEND             
-                           󰡨 Docker                         Intermediate        
-                              Docker-Compose
-                         
-                           󰌠 Python                         Expert              
-                              Flask
-                              Gunicorn
-                              Numpy
-                              OOP
-                              Pandas
-                              Sql Alchemy
-                         
-                           󰬷 Java                           Intermediate        
-                              OOP
-                              Spring Boot
-                         
-                            SQL                            Intermediate        
-                              MySQL
-                              Postgresql
-                              SQLite
-                         
-                         CLOUD               
-                           󰸏 AWS                            Intermediate        
-                              API Gateway
-                              Cloudfront
-                              EC2
-                              ECR
-                              IAM
-                              Lambda
-                              S3
-                         
-                         FRONTEND            
-                            Javascript                     Intermediate        
-                              JQuery
-                              Socket-IO
-                         
-                            CSS                            Intermediate        
-                         
-                            HTML                           Intermediate        
-                         
-                         VERSION             
-                            Git                            Intermediate        
-                              Bitbucket
-                              Github
-                         
-                         LANGUAGES           
-                            Portuguese                     Native            
-                         
-                            English                        Advanced  
+            
+                  
+                                           ██████╗ ██╗     ██╗██╗   ██╗██████╗ 
+                                           ██╔══██╗██║     ██║██║   ██║██╔══██╗
+                                           ██║  ██║██║     ██║██║   ██║██████╔╝
+                                           ██║  ██║██║██   ██║██║   ██║██╔══██╗
+                                           ██████╔╝██║╚█████╔╝╚██████╔╝██████╔╝
+                                           ╚═════╝ ╚═╝ ╚════╝  ╚═════╝ ╚═════╝ 
+                                           
+                                                    ▄███████████▄.▐█▄▄█▌
+                                                    █████████████▌▀▀██▀ 
+                                                    ████▄█████████▄▄█▌  
+                                                     ▄▄▄▄▄██████████▀    
+                                           
+                                           
+                                                    DIEGO INSAURRALDE
+                                           
+                  
+                                 BACKEND             
+                                   󰡨 Docker                         Intermediate        
+                                      Docker-Compose
+                                 
+                                   󰌠 Python                         Expert              
+                                      Flask
+                                      Gunicorn
+                                      Numpy
+                                      OOP
+                                      Pandas
+                                      Sql Alchemy
+                                 
+                                   󰬷 Java                           Intermediate        
+                                      OOP
+                                      Spring Boot
+                                 
+                                    SQL                            Intermediate        
+                                      MySQL
+                                      Postgresql
+                                      SQLite
+                                 
+                                 CLOUD               
+                                   󰸏 AWS                            Intermediate        
+                                      API Gateway
+                                      Cloudfront
+                                      EC2
+                                      ECR
+                                      IAM
+                                      Lambda
+                                      S3
+                                 
+                                 FRONTEND            
+                                    Javascript                     Intermediate        
+                                      JQuery
+                                      Socket-IO
+                                 
+                                    CSS                            Intermediate        
+                                 
+                                    HTML                           Intermediate        
+                                 
+                                 VERSION             
+                                    Git                            Intermediate        
+                                      Bitbucket
+                                      Github
+                                 
+                                 LANGUAGES           
+                                    Portuguese                     Native            
+                                 
+                                    English                        Advanced  
 
     
             Brazil    +55 43 996773410    @dijub    @diego-insaurralde  󰇮  diego_insaurralde@live.com
