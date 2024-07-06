@@ -31,6 +31,7 @@
                                    󰬷 Java                           Intermediate        
                                       OOP
                                       Spring Boot
+                                      JPA / Hibernate
                                  
                                     SQL                            Intermediate        
                                       MySQL
